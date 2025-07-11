@@ -2,6 +2,8 @@
 
 Um sistema de atendimento inteligente que utiliza IA para responder questões baseadas em documentação técnica em formato PDF. O sistema processa documentos PDF, cria uma base de conhecimento vetorial e responde perguntas utilizando a API da OpenAI.
 
+> 🇺🇸 **English documentation available**: [README_EN.md](README_EN.md)
+
 ## 🚀 Funcionalidades
 
 - **Processamento de PDF**: Carrega e processa documentos PDF automaticamente
@@ -91,7 +93,8 @@ assistente-ia-pdf/
 ├── preview.png         # Captura de tela da interface
 ├── .env               # Variáveis de ambiente (não commitado)
 ├── .gitignore         # Arquivos a serem ignorados pelo Git
-├── README.md          # Este arquivo
+├── README.md          # Documentação em português
+├── README_EN.md       # Documentação em inglês
 ├── requirements.txt   # Dependências do projeto
 ├── LICENSE            # Licença MIT
 └── run.sh             # Script de execução rápida
